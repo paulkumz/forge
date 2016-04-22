@@ -39,7 +39,8 @@
         <div class="container">
             <div class="content">
                 <div class="title">Paul kumbweya</div>
-                <p>This is like the best moments ever</p>
+                <h4>Web designer</h4>
+                <p>l do great stuff</p>
             </div>
         </div>
     </body>
